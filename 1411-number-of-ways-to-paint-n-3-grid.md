@@ -6,7 +6,7 @@ Given `n` the number of rows of the grid, return _the number of ways_ you can pa
 
 **Example 1:**
 
-![[Pasted image 20260103123525.png]]
+![Example grid](imgs/Pasted%20image%2020260103123525.png)
 
 **Input:** n = 1
 **Output:** 12
