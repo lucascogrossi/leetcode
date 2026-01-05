@@ -1,4 +1,4 @@
-#medium #array #math
+#medium #array #math #review
 
 Given an integer array `nums`, return _the sum of divisors of the integers in that array that have exactly four divisors_. If there is no such integer in the array, return `0`.
 

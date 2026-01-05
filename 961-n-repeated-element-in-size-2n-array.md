@@ -1,4 +1,4 @@
-#easy #array #hash-table
+#easy #array #hash-table #review
 
 You are given an integer array `nums` with the following properties:
 
