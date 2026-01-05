@@ -30,15 +30,11 @@ Return _the element that is repeated_ `n` _times_.
 - `0 <= nums[i] <= 104`
 - `nums` contains `n + 1` **unique** elements and one of them is repeated exactly `n` times.
 
-### Intuition
+#### Approach
 
 Observe that half the array is the same number. We just need to find which number appears more than once. 
 
-#### Approach
-
 Use a set to store the numbers. A set stores unique values.  If we see a number that repeats, that is our answer.
-
-### Pattern
 
 Find duplicate -> HashSet 
 
